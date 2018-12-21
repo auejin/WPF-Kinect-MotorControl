@@ -2,6 +2,8 @@
 
 Stepper Motor Control with Kinect
 
+It rotates 1D-motor to the exact location of clicked location on depth point image received from Kinect. (WPF Projects supports 2D rotation btw!)
+
 Test Video : [Watch it on Youtube](https://www.youtube.com/watch?v=52IMvLKpYQI)
 
 # CS584 HCI Project @ KAIST
