@@ -2,7 +2,17 @@
 
 Stepper Motor Control with Kinect
 
-It rotates 1D-motor to the exact location of clicked location on depth point image received from Kinect. (WPF Projects supports 2D rotation btw!)
+It rotates 1D-motor to the exact location of clicked location on depth point image received from Kinect.
+
+You can replace [AngleFromMousePosition()](https://github.com/auejin/WPF-Kinect-MotorControl/blob/82624efa6ecbd2de3f1ee0c087d9ecb513807842/MotorControl-WPF/MainWindow.xaml.cs#L209) as below if you want to get full 2D angle.
+
+```C#
+private double[] AngleFromMousePosition(Point position, short depth)
+        {
+            ...
+            return new double[alpha,beta];
+}
+```
 
 Test Video : [Watch it on Youtube](https://www.youtube.com/watch?v=52IMvLKpYQI)
 
