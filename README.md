@@ -16,7 +16,14 @@ private double[] AngleFromMousePosition(Point position, short depth)
 
 Test Video : [Watch it on Youtube](https://www.youtube.com/watch?v=52IMvLKpYQI)
 
+
 # CS584 HCI Project @ KAIST
+
+## ProjectedAssistant; Virtual Assistant with Projector-based Display 
+
+Majority of virtual assistants have been used voice commands for user interaction. However, virtual assistants with GUI were degrated the locational independency of sound interaction by its fixed visual displays, which makes user not easy to receive informations in a far distance from the virtual assistnaces. Therefore, we suggest a graphic display of virtual assistant with adaptable screen projection. Our graphic display showed 26% more shorter task time comparing to fixed laptop display. Our display also showed 2.7 times lower physical demands and 1.45 times lower mental demand from NASA TLX questionnaire.
+
+## Media
 
 [Full Slideshow](https://docs.google.com/presentation/d/e/2PACX-1vTQjwZHR5yNopmhU3DrwJx8Mj1WJjMoVJQWYtGE6p0W4QhRWvgP8JC8IC5NJSxShIBv_UFA0Np1TkFa/pub?start=false&loop=false&delayms=60000)
 
