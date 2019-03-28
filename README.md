@@ -1,6 +1,6 @@
 # WPF-Kinect-MotorControl
 
-Stepper Motor Control with Kinect
+Stepper Motor Control by WPF application with Kinect v1 extension. [Watch it on Youtube!](https://www.youtube.com/watch?v=52IMvLKpYQI)
 
 It rotates 1D-motor to the exact location of clicked location on depth point image received from Kinect.
 
@@ -13,8 +13,6 @@ private double[] AngleFromMousePosition(Point position, short depth)
             return new double[alpha,beta];
 }
 ```
-
-Test Video : [Watch it on Youtube](https://www.youtube.com/watch?v=52IMvLKpYQI)
 
 
 # ProjectedAssistant; Virtual Assistant with Projector-based Display 
