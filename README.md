@@ -1,4 +1,4 @@
-# WPF-Kinect-MotorControl
+## WPF-Kinect-MotorControl
 
 Stepper Motor Control by WPF application with Kinect v1 extension. [Watch it on Youtube!](https://www.youtube.com/watch?v=52IMvLKpYQI)
 
@@ -15,7 +15,7 @@ private double[] AngleFromMousePosition(Point position, short depth)
 ```
 
 
-# ProjectedAssistant; Virtual Assistant with Projector-based Display 
+## ProjectedAssistant; Virtual Assistant with Projector-based Display 
 
 This project is made for *Human Computer Interaction (CS584), KAIST, 2018*.
 
