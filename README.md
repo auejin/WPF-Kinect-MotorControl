@@ -17,6 +17,8 @@ private double[] AngleFromMousePosition(Point position, short depth)
 
 ## ProjectedAssistant; Virtual Assistant with Projector-based Display 
 
+### Abstract
+
 This project is made for *Human Computer Interaction (CS584), KAIST, 2018*.
 
 Majority of virtual assistants have been used voice commands for user interaction. However, virtual assistants with GUI were degrated the locational independency of sound interaction by its fixed visual displays, which makes user not easy to receive informations in a far distance from the virtual assistnaces. Therefore, we suggest a graphic display of virtual assistant with adaptable screen projection. Our graphic display showed 26% more shorter task time comparing to fixed laptop display. Our display also showed 2.7 times lower physical demands and 1.45 times lower mental demand from NASA TLX questionnaire.
