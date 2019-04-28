@@ -17,7 +17,7 @@ private double[] AngleFromMousePosition(Point position, short depth)
 
 ## ProjectedAssistant; Virtual Assistant with Projector-based Display 
 
-![](https://github.com/auejin/WPF-Kinect-MotorControl/blob/master/cs584_team2.PNG | width=300)
+![](./cs584_team2.PNG)
 
 ### Abstract
 
@@ -30,6 +30,6 @@ Majority of virtual assistants have been used voice commands for user interactio
 
 [Link to Slides](https://docs.google.com/presentation/d/e/2PACX-1vTQjwZHR5yNopmhU3DrwJx8Mj1WJjMoVJQWYtGE6p0W4QhRWvgP8JC8IC5NJSxShIBv_UFA0Np1TkFa/pub?start=false&loop=false&delayms=60000)
 
-[Link to Paper](https://github.com/auejin/WPF-Kinect-MotorControl/blob/master/cs584_team2.pdf)
+[Link to Paper](./cs584_team2.pdf)
 
 [Experiment Video](https://www.youtube.com/watch?v=U3Ipgunlluw) of this project.
