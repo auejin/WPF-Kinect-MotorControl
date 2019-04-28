@@ -17,7 +17,7 @@ private double[] AngleFromMousePosition(Point position, short depth)
 
 ## ProjectedAssistant; Virtual Assistant with Projector-based Display 
 
-![](./cs584_team2.PNG){: width="300" height="300"){: .center}
+![](./cs584_team2.PNG)
 
 ### Abstract
 
